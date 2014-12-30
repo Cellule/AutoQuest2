@@ -11,3 +11,4 @@ Currently no API or feature has changed, only a few bug fix.
 ## Current changes with original project
 - Fix override key where shift/alt/ctrl key would not be detected to override addon actions.
 - Fix bug when there is an available and active quest on an npc blocking the addon
+- Fix bug where an active but not completed quest would prevent any interaction with the npc

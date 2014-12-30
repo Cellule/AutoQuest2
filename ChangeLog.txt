@@ -3,7 +3,7 @@ Version 5.5
 ----------
 - Fix override key where shift/alt/ctrl key would not be detected to override addon actions.
 - Fix bug when there is an available and active quest on an npc blocking the addon
-
+- You might have to click more than once on an npc to turn in quests if you have incompleted quests.
 ----------
 Version 2.12
 ----------
@@ -54,7 +54,7 @@ New Features:
 
 Bug Fix:
 - Resetting and switching profiles will now properly toggle low level quest tracking and no longer cause the Enable button to malfunction.
-- Fixed the order of items in selectable drop down lists. 
+- Fixed the order of items in selectable drop down lists.
 - Removed the 'Enable' option from the Display option panel.
 - Got rid of localizations. I didn't have any of the proper translations and it was just a big pain. If anyone with a second language wants to translate the strings, I would be happy to accept the help.
 - Got rid of hooks. It was causing compatibility issues with some addons.
@@ -81,7 +81,7 @@ Bug Fix:
 Version 2.01
 ----------
 Bug Fix:
-- Fixed an uncommon bug that sometimes froze the addon when a certain type of quest NPC had an active quest. There was a typo in one of the functions that I missed while testing. 
+- Fixed an uncommon bug that sometimes froze the addon when a certain type of quest NPC had an active quest. There was a typo in one of the functions that I missed while testing.
 
 -----------
 Version 2.0
