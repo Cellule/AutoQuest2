@@ -1,4 +1,10 @@
 ----------
+Version 5.5
+----------
+- Fix override key where shift/alt/ctrl key would not be detected to override addon actions.
+- Fix bug when there is an available and active quest on an npc blocking the addon
+
+----------
 Version 2.12
 ----------
 Bug Fixes:
