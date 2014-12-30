@@ -3,6 +3,8 @@ AutoQuest2
 
 Continuation of WoW Addon AutoQuest2
 
+Latest Version: [5.5](ChangeLog.txt)
+
 see [AutoQuest2](http://wow.curseforge.com/addons/autoquest/) for additionnal information.
 Currently no API or feature has changed, only a few bug fix.
 
